@@ -1,6 +1,6 @@
 [![Join the chat at https://gitter.im/evollu/react-native-fcm](https://badges.gitter.im/evollu/react-native-fcm.svg)](https://gitter.im/evollu/react-native-fcm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## NOTE:
+## NOTE: (TEST)
 - for latest RN, use v3
 - for RN < 0.40.0, use v2.5.6
 - for RN < 0.33.0, you need to user react-native-fcm@1.1.0
